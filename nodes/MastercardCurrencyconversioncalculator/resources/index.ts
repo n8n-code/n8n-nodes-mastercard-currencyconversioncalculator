@@ -1,0 +1,1 @@
+export { currenciesDescription } from './currencies';
